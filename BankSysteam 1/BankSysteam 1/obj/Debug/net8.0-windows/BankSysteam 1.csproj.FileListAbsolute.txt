@@ -1,0 +1,20 @@
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\bin\Debug\net8.0-windows\BankSysteam 1.exe
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\bin\Debug\net8.0-windows\BankSysteam 1.deps.json
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\bin\Debug\net8.0-windows\BankSysteam 1.runtimeconfig.json
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\bin\Debug\net8.0-windows\BankSysteam 1.dll
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\bin\Debug\net8.0-windows\BankSysteam 1.pdb
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam_1.Form1.resources
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam_1.View.HomeView.resources
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam 1.csproj.GenerateResource.cache
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam 1.AssemblyInfoInputs.cache
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam 1.AssemblyInfo.cs
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam 1.csproj.CoreCompileInputs.cache
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam 1.dll
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\refint\BankSysteam 1.dll
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam 1.pdb
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam 1.genruntimeconfig.cache
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\ref\BankSysteam 1.dll
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam_1.Properties.Resources.resources
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam_1.View.EmployeeView.resources
+C:\Users\ledin\source\repos\BankSysteam 1\BankSysteam 1\obj\Debug\net8.0-windows\BankSysteam_1.View.BranchView.resources
